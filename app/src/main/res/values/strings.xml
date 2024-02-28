@@ -1,0 +1,138 @@
+<resources>
+
+    <!--    String gia to onboarding-->
+    <string name="app_name">Explore Syros</string>
+    <string name="heading2" translatable="false">Discover beautiful beaches and other sights</string>
+    <string name="heading3" translatable="false">Explore and find interesting museums and art galleries</string>
+    <string name="heading4" translatable="false">Enjoy your Adventure</string>
+    <string name="description1" translatable="false">Here, you’ll find everything Syros Island has to offer you.</string>
+    <string name="description2" translatable="false">Discover St Stephen and Varvarousa Beach and other beautiful beaches where you can relax</string>
+    <string name="description3" translatable="false">Tour The Industrial Design Museum, Apollo Theatre and other sights to learn new things.</string>
+    <string name="description4" translatable="false">We hope that you’ll have a good time staying in Syros.</string>
+    <string name="heading1" translatable="false">Welcome to Explore Syros</string>
+    <string name="mainpage" translatable="false">This is the main page</string>
+
+    <!--    main titlesa and others -->
+    <string name="tour" translatable="false">Explore and Enjoy</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="mapsname" translatable="false">Map</string>
+    <string name="intent_extra_spot_name" translatable="false">SPOT_NAME</string>
+
+
+    <!--    titles of cards-->
+    <string name="spotsname0" translatable="false">Industrial Museum of Hermoupolis</string>
+    <string name="spotsname1" translatable="false">Archaeological Museum of Syros</string>
+    <string name="spotsname2" translatable="false">Hermoupolis Textile Museum</string>
+    <string name="spotsname3" translatable="false">Vamvakari Museum</string>
+    <string name="spotsname4" translatable="false">Apollon Theater</string>
+    <string name="spotsname5" translatable="false">St. Stephen Beach</string>
+    <string name="spotsname6" translatable="false">Varvarousa Beach</string>
+    <string name="spotsname7" translatable="false">Pakou Beach</string>
+    <string name="spotsname8" translatable="false">Delphini Beach</string>
+    <string name="spotsname9" translatable="false">Komitos Beach</string>
+    <string name="spotsname10" translatable="false">Church of Agios Nikolaos</string>
+    <string name="spotsname11" translatable="false">Church of the Resurrection of the Lord</string>
+    <string name="spotsname12" translatable="false">Church of the Dormition</string>
+    <string name="spotsname13" translatable="false">Saint George Catholic Cathedral</string>
+    <string name="spotsname14" translatable="false">Cyclades Municipal Art Gallery</string>
+    <string name="spotsname15" translatable="false">Villa Tsiropina</string>
+    <string name="spotsname16" translatable="false">Kyveli Institute</string>
+    <string name="spotsname17" translatable="false">Kini Aquarium</string>
+
+    <!--    description of cards-->
+    <string name="spotsdescription0" translatable="false">The Industrial Museum of Ermoupolis was founded in 2000 by the Center for Technical Culture and is housed in 4 industrial buildings of the 19th century, the Kornilaki Tannery, the Anairousi Leatherworks, the Velissaropoulou Textiles and the Katsimantis Dyeing Factory opposite the Syros General Hospital. The museum houses a collection of tools, equipment and machinery of the golden industrial age from workshops of confectionery, textile, tannery, printing, mechanical engineering, glassmaking, as well as a digital image and sound archive with worker testimonies, maps and plans, a 3D visualization of industrial buildings and finds from the wreck of the steamer Patris. Among the exhibits is the legendary Enfield 8000, the first electric car manufactured in Greece.</string>
+    <string name="spotsdescription1" translatable="false">The Archaeological Museum of Syros was founded in 1834 and is one of the oldest museums in Greece. Since 1899, it has been housed in 4 halls of the Ermoupolis Town Hall and offers an independent entrance from the historical Miaouli Square. The museums collections include exhibits such as the Depas Amphikypellon, a 15 cm high tubular cup from the late 3rd millennium, the Pyxida, a 7 cm high vase from the second half of the 3rd millennium, the 35 cm high marble figurine of a female figure from 730 BC, as well as other Proto-Cycladic and Byzantine exhibits, sculptures and inscriptions. There is also an exhibition of archaeologist Christos Tsoundas in the museum.</string>
+    <string name="spotsdescription2" translatable="false">In a small alley, lost inside Ermoupoli, hides one of the 68 factories in total that the capital of the Cyclades once possessed. This is the Zisimato textile factory, which has remained as it was the day it closed. A unique case of a preserved example of the industrial heritage of Syros and Greece. The space, after several years of persistent work, has been restored, and is offered to the visitor for a small journey through time. There, passing through the old door, one discovers all the unknown aspects of the operation of the factory, the life of the workers and learns about the miracle of the textile industry that flourished in Hermoupolis and lasted for 140 years. The experiential experience begins with a lantern in hand.</string>
+    <string name="spotsdescription3" translatable="false">The Markos Vamvakaris Exhibition consists of two sections: Memories and Experiences. The two units are presented, respectively, in two buildings located in Piazza, the center of Ano Syros, a short distance from each other. Chronologically and conceptually, the Memories section (1995) precedes and the Experiences section follows.</string>
+    <string name="spotsdescription4" translatable="false">The Municipal Theater of Apollo is an emblem of Ermoupolis and is inextricably linked with its history. The city, a creation of refugees at the beginning of the 19th century, was a social, economic and architectural miracle, with an intellectual movement and radiation surprising for the time.</string>
+    <string name="spotsdescription5" translatable="false">Agios Stefanos is a beautiful and picturesque chapel in the area of Galissa built among the rocks. The small church was built by a fisherman who was saved from the tentacles of a large octopus after praying to Agios. It is located 15 minutes from the main beach from where a small path starts that ends at the small church. Access is also easy by boat.</string>
+    <string name="spotsdescription6" translatable="false">Varvarousa beach is located in Ormos Aetou, north of Delfini beach and just 12 km from Ermoupoli. It is a beautiful deserted beach ideal for eclectic travelers who seek absolute tranquility for their sea excursions. The beach is accessible by boat from Kini, by private boat or for the more adventurous and hiking enthusiasts via a path that starts from Delfini Beach.</string>
+    <string name="spotsdescription7" translatable="false">Those who want a quieter and smaller beach, have only to go down the hill of Agia Pakos and find themselves at the beach of Armeos. It is located very close, a little further south from the beach of Galissa, at a distance of 10 kilometers from Ermoupoli (southwest). The beach of Armeos will enchant you with its beautiful, clear blue waters, its golden sand and the hills that rise all around, protecting it from winds. Because it is deserted, it is a nudist beach, so you can safely nudize if you wish. To get there, follow the path which is very good and passable. Otherwise you can go with your boat.</string>
+    <string name="spotsdescription8" translatable="false">Delfini beach is located 11 km from the capital of the island north of the village of Kini and is an ideal choice for those who want to avoid the meltemias, enjoy their bath with all the comforts. Bathers can relax on the sunbeds under the shade of an umbrella or try unique delicacies while gazing at the enchanting landscape. One can reach the beach by following the road to Kini and then the coastal road or by sea with a private boat.</string>
+    <string name="spotsdescription9" translatable="false">Komito is a beautiful beach in the south-west of Syros on the way to Poseidonia, chosen by travelers for its golden sand, crystal clear waters, straw umbrellas and beach bar that bring a breath of fresh air to bathers. Just 1 km from Poseidonia and 15 km from Ermoupoli, Komito beach is a favorite destination for those looking for an oasis of relaxation and tranquility on hot summer days. The privileged location of the beach allows visitors to swim in the turquoise waters, or to enjoy their coffee with a view of the rocky island of Strongylos.</string>
+    <string name="spotsdescription10" translatable="false">The church of Agios Nikolaos, in the famous Vaporia district of Hermoupolis, is one of the most important religious and architectural monuments of Syros. It was built between 1848 and 1870 according to the plans of the architect G. Metaxas and by royal decree of King Otto, it is dedicated to the patron saint of Hermoupolis and is the third oldest church in Hermoupolis, after the churches of the Transfiguration of the Savior and the Dormition of the Virgin.</string>
+    <string name="spotsdescription11" translatable="false">The Resurrection of the Savior is a magnificent temple dedicated to the "Resurrection of the Nation" that dominates the hill of Hermoupolis. It was built in 1874 by the Syrian architect Dimitris Eleftheriadis, but began to operate systematically from 1908 onwards. It is a three-aisled Byzantine-style church with several neoclassical elements, with a dome, impressive bell towers and very special images. The church celebrates Thomas Sunday and organizes various events for young and old.</string>
+    <string name="spotsdescription12" translatable="false">The Assumption is the second oldest church on the island and was built behind the harbor in 1828. It is a three-aisled basilica church with impressive architecture and decoration. Its interior is decorated with elements of wood and marble, while the domes create a wooden frame that looks like an overturned ship. What stands out is the authentic image of the Dormition of the Virgin from 1562 by Domenikos Theotokopoulos (El Greco) and makes the temple one of the most important attractions of Syros</string>
+    <string name="spotsdescription13" translatable="false">Agios Georgios or otherwise known as San George is the catholic metropolis of Syros. It was built in 1200 on the highest point of the hill of Ano Syros and has received numerous renovations and reconstructions over the years, most recently by the Tinian architect Hatzisimos. It is a large complex that includes the temple, the bell tower, the baptistery, the sacristy, the hospitality hall, the Historical Archive building, the episcopal palace and a ruined house. The cathedral is a three-aisled basilica with marble columns. At the entrance, statues of Saints by Italian sculptors of the 18th century dominate, while inside the wood-carved paneling and the marble floor inspired by a Tinian sculptor are impressive.</string>
+    <string name="spotsdescription14" translatable="false">The Cyclades Art Gallery has been housed since 1994 in four of the transit warehouses at the northern pier of the port of Syros, in Hermoupoli. The warehouses were built between 1834 and 1839 to designs by the Bavarian architect Johann Erlacher, who accompanied King Otto, and were among the first buildings of Ermoupolis. A total of 14 warehouses were created, which extend over 120 meters in length in two wings on the pier.</string>
+    <string name="spotsdescription15" translatable="false">The Poseidonia Town Hall is housed in the Tsiropina mansion in Delagrazia, a stone-built historic building, an example of a 20th century grand urban summer residence that reflects the glamor of another era. The work of the Tsiropina brothers, the mansion was built in 1916 and was the residence of Konstantinos Tsiropinas, mayor of Ermoupolis between 1887 and 1891 and partner of E. Saloustros in the first Tannery factory of Syros founded in 1829.</string>
+    <string name="spotsdescription16" translatable="false">The Kyveli Institute is a Cultural Organisation, which researches the theatrical history and historical fortunes of Hellenism, highlights converging processes in the European and international space, creates cultural synergies and promotes cultural decentralization centered on the Aegean, having as its starting point the adventure of a large family , which marked the theater, politics and arts of the Greek 20th century. Its purpose is the rescue, research, exploitation and highlighting of historical material related to the Greek and European theater of the 20th century, through the life and work of the great protagonist Kyveli and her family.</string>
+    <string name="spotsdescription17" translatable="false">The aquarium in Kini is one of the most favorite attractions for young and old alike, as it gives visitors the opportunity to get to know the enchanting marine world of the Aegean Sea up close and to study the marine flora and fauna in depth. The aquarium is above all educational in nature, as it invites young and old to learn everything about the sea, about the marine activities of the Syrians and the tools used in them, so that they become aware of the environment and get to know the natural environment a little better wealth that surrounds them. Those who choose to visit the aquarium will also have the opportunity to admire the exhibits of the Museum of Traditional Boats, Fishing Tools and Marine Organizations housed in the same space.</string>
+
+
+    <!--coordinates-->
+    <string-array name="spot0geopoint">
+        <item>37.438041</item>
+        <item>24.934668</item>
+    </string-array>
+    <string-array name="spot1geopoint">
+        <item>37.445136</item>
+        <item>24.942279</item>
+    </string-array>
+    <string-array name="spot2geopoint">
+        <item>37.43679</item>
+        <item>24.93575</item>
+    </string-array>
+    <string-array name="spot3geopoint">
+        <item>37.449252</item>
+        <item>24.935395</item>
+    </string-array>
+    <string-array name="spot4geopoint">
+        <item>37.445469</item>
+        <item>24.943730</item>
+    </string-array>
+    <string-array name="spot5geopoint">
+        <item>37.413665</item>
+        <item>24.860686</item>
+    </string-array>
+    <string-array name="spot6geopoint">
+        <item>37.468264</item>
+        <item>24.896312</item>
+    </string-array>
+    <string-array name="spot7geopoint">
+        <item>37.419630</item>
+        <item>24.874110</item>
+    </string-array>
+    <string-array name="spot8geopoint">
+        <item>37.458362</item>
+        <item>24.898539</item>
+    </string-array>
+    <string-array name="spot9geopoint">
+        <item>37.376854</item>
+        <item>24.882940</item>
+    </string-array>
+    <string-array name="spot10geopoint">
+        <item>37.446448</item>
+        <item>24.945247</item>
+    </string-array>
+    <string-array name="spot11geopoint">
+        <item>37.448704</item>
+        <item>24.941235</item>
+    </string-array>
+    <string-array name="spot12geopoint">
+        <item>37.441779</item>
+        <item>24.941104</item>
+    </string-array>
+    <string-array name="spot13geopoint">
+        <item>37.45102</item>
+        <item>24.93534</item>
+    </string-array>
+    <string-array name="spot14geopoint">
+        <item>37.441165</item>
+        <item>24.945450</item>
+    </string-array>
+    <string-array name="spot15geopoint">
+        <item>37.387892</item>
+        <item>24.889464</item>
+    </string-array>
+    <string-array name="spot16geopoint">
+        <item>37.447065</item>
+        <item>24.943842</item>
+    </string-array>
+    <string-array name="spot17geopoint">
+        <item>37.444636</item>
+        <item>24.899892</item>
+    </string-array>
+
+
+</resources>
